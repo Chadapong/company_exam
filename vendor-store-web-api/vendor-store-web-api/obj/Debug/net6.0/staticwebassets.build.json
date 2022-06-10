@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dNp8GXQdHZn2KV+Hh0BDKG/NUTTZ2IFhvQKuu2heEb0=",
+  "Source": "vendor-store-web-api",
+  "BasePath": "_content/vendor-store-web-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
